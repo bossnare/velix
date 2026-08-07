@@ -1,6 +1,6 @@
-# Uplivrr
+# Velix
 
-This is the **Uplivrr** application, a modern web app built with React, Vite, and Tailwind CSS.
+This is the **Velix** application, a modern web app built with React, Vite, and Tailwind CSS.
 
 ## Getting Started
 
@@ -15,7 +15,7 @@ Make sure you have [Bun](https://bun.sh/) installed on your machine.
 1. Clone the repo:
 
     ```sh
-    git clone https://github.com/your_username/uplivrr.git
+    git clone https://github.com/your_username/Velix.git
     ```
 
 2. Install dependencies:

@@ -16,7 +16,7 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"],
-      "uplivrr-frontend/*": ["src/*"]
+      "Velix-frontend/*": ["src/*"]
     },
 
     /* Linting */
