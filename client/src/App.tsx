@@ -18,11 +18,11 @@ function App() {
                 Velix
               </span>
             </div>
-            <div className="flex items-center justify-between px-2 py-3 rounded-lg shadow-md grow">
+            <div className="flex items-center justify-between px-2 py-3 rounded-lg shadow-sm grow">
               <ul className="flex gap-8 font-semibold">
                 {tabs.map((tab) => (
                   <li key={tab.id}>
-                    <button className="flex gap-1">
+                    <button className="flex gap-1 transition hover:text-primary">
                       <tab.icon className="size-5" /> {tab.name}
                     </button>
                   </li>
